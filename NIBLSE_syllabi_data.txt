@@ -1,0 +1,16 @@
+Question	Not.at.all.important	Slightly.Important	Moderately.Important	Very.Important	Extremely.Important	Total.Responses	Mean	Min.Value	Max.Value	Variance	Std.Dev	Competencies.In.Syllabi
+1-Understand the role of computation and data mining in hypothesis-driven processes within the life sciences?	2	29	180	418	380	1009	4.13	1	5	0.67	0.82	72
+2-Understand computational concepts used in bioinformatics, e.g., meaning of algorithm, bioinformatics file formats?	26	150	372	304	155	1007	3.41	1	5	1.00	1.00	56
+3-Know statistical concepts used in bioinformatics, e.g., e-value, z-scores, t test, type -1 error, type-2 error, employ R?	12	70	196	366	359	1003	3.99	1	5	0.94	0.97	27
+4-Know how to access genomic  data, e.g., in NCBI nucleotide databases?	7	55	141	285	516	1004	4.24	1	5	0.88	0.94	52
+5-Be able to use bioinformatics tools to analyze genomic data, e.g., BLASTN, genome browser?	8	76	176	295	444	999	4.09	1	5	0.99	0.99	63
+6-Know how to access gene expression data, e.g., in UniGene, GEO, SRA?	20	168	340	300	148	976	3.40	1	5	1.01	1.01	11
+7-Be able to use bioinformatics tools to analyze gene expression data, e.g., GeneSifter, David, ORF Finder?	25	193	348	273	134	973	3.31	1	5	1.04	1.02	28
+8-Know how to access proteomic data, e.g., in NCBI protein databases?	22	132	264	327	244	989	3.65	1	5	1.12	1.06	41
+9-Be able to use bioinformatics tools to examine protein structure and function, e.g., BLASTP, Cn3D, PyMol?	18	165	311	291	201	986	3.50	1	5	1.10	1.05	35
+10-Know how to access metabolomic and systems biology data, e.g., in the Human Metabolome Database?	38	238	347	247	101	971	3.14	1	5	1.05	1.03	5
+11-Be able to use bioinformatics tools to examine the flow of molecules within pathways/networks, e.g., Gene Ontology, KEGG?	27	228	368	234	118	975	3.19	1	5	1.03	1.02	11
+12-Be able to use bioinformatics tools to examine metagenomics data, e.g., MEGA, MUSCLE?	38	251	340	232	109	970	3.13	1	5	1.09	1.04	16
+13Know how to write short computer programs as part of the scientific discovery process, e.g., write a script to analyze sequence data?	146	267	270	172	125	980	2.86	1	5	1.54	1.24	24
+14-Be able to use software packages to manipulate and analyze bioinformatics data, e.g., Geneious, Vector NTI Express, spreadsheets?	51	202	300	278	145	976	3.27	1	5	1.22	1.11	35
+15-Operate in a variety of computational environments to manipulate and analyze bioinformatics data, e.g., Mac OS, Windows, web- or cloud-based, Unix/Linux command line?	67	210	289	254	161	981	3.24	1	5	1.35	1.16	23
